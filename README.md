@@ -1,2 +1,2 @@
 # roadsense-ml
-roadsense-accident- severity-prediction
+roadsense-accident-severity-prediction
